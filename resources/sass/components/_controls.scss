@@ -1,0 +1,51 @@
+div#control-container {
+
+  div#central-control-container {
+
+    div#central-controls {
+
+      div#previous {
+        background: url("../img/prev.svg");
+        background-repeat: no-repeat;
+        background-size: contain;
+      }
+
+      div#play-pause {
+
+        &.amplitude-paused {
+          background: url("../img/play.svg");
+          background-size: contain;
+          background-repeat: no-repeat;
+        }
+
+        &.amplitude-playing {
+          background: url("../img/pause.svg");
+          background-size: contain;
+          background-repeat: no-repeat;
+        }
+      }
+
+      div#next {
+        background: url("../img/next.svg");
+        background-repeat: no-repeat;
+        background-size: contain;
+      }
+    }
+  }
+
+  div.amplitude-mute {
+
+    &.amplitude-not-muted {
+      background: url("../img/volume.svg");
+      background-repeat: no-repeat;
+    }
+
+    &.amplitude-muted {
+      background: url("../img/mute.svg");
+      background-repeat: no-repeat;
+    }
+  }
+}
+
+
+

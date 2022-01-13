@@ -1,0 +1,84 @@
+[
+  {
+    "id": 0,
+    "songName": "Space Melody",
+    "artistName": "VIZE x Alan Walker",
+    "audioFile": "songs/audio/@VIZE  x Alan Walker – Space Melody (Edward Artemyev) feat. Leony (Official Music Video).mp3",
+    "videoUrl": "songs/video/@VIZE  x Alan Walker – Space Melody (Edward Artemyev) feat. Leony (Official Music Video).mp4",
+    "albumArt": "songs/images/@VIZE  x Alan Walker – Space Melody (Edward Artemyev) feat. Leony.jpg",
+    "repeat": "1"
+  },
+  {
+    "id": 1,
+    "songName": "Schhh",
+    "artistName": "Mahmut Orhan x Irina Rimes",
+    "audioFile": "songs/audio/Mahmut Orhan - Schhh feat. Irina Rimes (Official Video) [Ultra Music].mp3",
+    "videoUrl": "songs/video/Mahmut Orhan - Schhh feat. Irina Rimes (Official Video) [Ultra Music].mp4",
+    "albumArt": "songs/images/Mahmut Orhan - Schhh feat. Irina Rimes.jpg",
+    "repeat": "3"
+  },
+  {
+    "id": 2,
+    "songName": "Space Melody",
+    "artistName": "VIZE x Alan Walker",
+    "audioFile": "songs/audio/@VIZE  x Alan Walker – Space Melody (Edward Artemyev) feat. Leony (Official Music Video).mp3",
+    "videoUrl": "songs/video/@VIZE  x Alan Walker – Space Melody (Edward Artemyev) feat. Leony (Official Music Video).mp4",
+    "albumArt": "songs/images/@VIZE  x Alan Walker – Space Melody (Edward Artemyev) feat. Leony.jpg",
+    "repeat": "2"
+  },
+  {
+    "id": 3,
+    "songName": "Schhh",
+    "artistName": "Mahmut Orhan x Irina Rimes",
+    "audioFile": "songs/audio/Mahmut Orhan - Schhh feat. Irina Rimes (Official Video) [Ultra Music].mp3",
+    "videoUrl": "songs/video/Mahmut Orhan - Schhh feat. Irina Rimes (Official Video) [Ultra Music].mp4",
+    "albumArt": "songs/images/Mahmut Orhan - Schhh feat. Irina Rimes.jpg",
+    "repeat": "3"
+  },
+  {
+    "id": 4,
+    "songName": "Space Melody",
+    "artistName": "VIZE x Alan Walker",
+    "audioFile": "songs/audio/@VIZE  x Alan Walker – Space Melody (Edward Artemyev) feat. Leony (Official Music Video).mp3",
+    "videoUrl": "songs/video/@VIZE  x Alan Walker – Space Melody (Edward Artemyev) feat. Leony (Official Music Video).mp4",
+    "albumArt": "songs/images/@VIZE  x Alan Walker – Space Melody (Edward Artemyev) feat. Leony.jpg",
+    "repeat": "3"
+  },
+  {
+    "id": 5,
+    "songName": "Schhh",
+    "artistName": "Mahmut Orhan x Irina Rimes",
+    "audioFile": "songs/audio/Mahmut Orhan - Schhh feat. Irina Rimes (Official Video) [Ultra Music].mp3",
+    "videoUrl": "songs/video/Mahmut Orhan - Schhh feat. Irina Rimes (Official Video) [Ultra Music].mp4",
+    "albumArt": "songs/images/Mahmut Orhan - Schhh feat. Irina Rimes.jpg",
+    "repeat": "3"
+  },
+  {
+    "id": 6,
+    "songName": "Space Melody",
+    "artistName": "VIZE x Alan Walker",
+    "audioFile": "songs/audio/@VIZE  x Alan Walker – Space Melody (Edward Artemyev) feat. Leony (Official Music Video).mp3",
+    "videoUrl": "songs/video/@VIZE  x Alan Walker – Space Melody (Edward Artemyev) feat. Leony (Official Music Video).mp4",
+    "albumArt": "songs/images/@VIZE  x Alan Walker – Space Melody (Edward Artemyev) feat. Leony.jpg",
+    "repeat": "3"
+  },
+  {
+    "id": 7,
+    "songName": "Schhh",
+    "artistName": "Mahmut Orhan x Irina Rimes",
+    "audioFile": "songs/audio/Mahmut Orhan - Schhh feat. Irina Rimes (Official Video) [Ultra Music].mp3",
+    "videoUrl": "songs/video/Mahmut Orhan - Schhh feat. Irina Rimes (Official Video) [Ultra Music].mp4",
+    "albumArt": "songs/images/Mahmut Orhan - Schhh feat. Irina Rimes.jpg",
+    "repeat": "3"
+  },
+  {
+    "id": 8,
+    "songName": "Space Melody",
+    "artistName": "VIZE x Alan Walker",
+    "audioFile": "songs/audio/@VIZE  x Alan Walker – Space Melody (Edward Artemyev) feat. Leony (Official Music Video).mp3",
+    "videoUrl": "songs/video/@VIZE  x Alan Walker – Space Melody (Edward Artemyev) feat. Leony (Official Music Video).mp4",
+    "albumArt": "songs/images/@VIZE  x Alan Walker – Space Melody (Edward Artemyev) feat. Leony.jpg",
+    "repeat": "3"
+  }
+
+]

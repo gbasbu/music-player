@@ -1,0 +1,32 @@
+div#amplitude-right {
+
+  div.song {
+
+    div.play-button-container {
+      background: url("../img/list-play-light.png") no-repeat;
+    }
+
+    div.play-button-container:hover {
+      background: url("../img/list-play-hover.png") no-repeat;
+    }
+
+    &.amplitude-active-song-container {
+      div.song-now-playing-icon-container {
+        img.now-playing {
+          display: block;
+        }
+      }
+      &:hover {
+        div.play-button-container {
+          display: none;
+        }
+      }
+    }
+
+    div.song-meta-data {
+      span.song-artist {
+        color: #607d8b;
+      }
+    }
+  }
+}
