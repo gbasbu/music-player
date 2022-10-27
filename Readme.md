@@ -1,4 +1,4 @@
-# Full Stack E-Commerce App
+# Music Player
 
 > Load songs from a JSON file and play them.
 
